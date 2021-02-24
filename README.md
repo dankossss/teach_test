@@ -2,7 +2,7 @@
 Interaction whith dataBase
 
 For the run application you must start coomand line,
-go to the projekt folder and enter next command:
+go to the folder .../store/src/main/java and enter next command:
 
 javac -cp ..\..\..\mysql-connector-java-8.0.23.jar *.java
 
